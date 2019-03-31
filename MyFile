@@ -1,5 +1,5 @@
 #include <stdio.h>
-//code to print out an integer input
+//code to print out an integer input entered by user
 
 int main()
 {
