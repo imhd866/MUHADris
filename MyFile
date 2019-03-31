@@ -1,0 +1,18 @@
+#include <stdio.h>
+//code to print out an integer input
+
+int main()
+{
+
+	int x;
+	
+	printf("Enter an Integer \n");
+	
+	scanf("%d", x);
+	
+	printf("The Integer you entered is : %d", x);
+
+
+	return 0;
+
+}
